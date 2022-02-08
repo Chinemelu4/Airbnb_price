@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run mapp.py
+web: sh setup.sh && streamlit run fff.py
